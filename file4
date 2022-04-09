@@ -1,0 +1,5 @@
+Hello, good morning!
+Creating file4 in new branch BranchA
+Once new branch is created, all files from master are copied to new branch.
+File created in branch will also be seen in WS and master untill add and commit
+
